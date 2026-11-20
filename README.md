@@ -48,7 +48,7 @@
 ### 1. Clone
 
 ```bash
-git clone https://github.com/Hrishiuttekar06/ESP32_IMU_Web_PlatformIO.git
+git clone https://github.com/hrishiuttekar/ESP32_IMU_Web_PlatformIO.git
 cd ESP32_IMU_Web_PlatformIO
 ```
 
